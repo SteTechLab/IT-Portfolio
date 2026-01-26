@@ -1,6 +1,6 @@
 # SteTechLab – IT Portfolio
 
-Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
+Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and **Google IT Automation with Python**, built strong troubleshooting, system administration and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
 
 ---
 
@@ -55,6 +55,7 @@ Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairin
 ## Certifications
 - [Google IT Support Professional Certificate (2025)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
 - [EF SET English Certificate 61/100 (C1 Advanced) (2025)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
+- [Google IT Automation with Python Professional Certificate (2025)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
 
 ## Languages
 - Italian – Native/Bilingual  
