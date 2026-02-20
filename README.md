@@ -53,9 +53,9 @@ Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairin
 ---
 
 ## Certifications
-- [Google IT Support Professional Certificate (2025)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
-- [Google IT Automation with Python Professional Certificate (2026)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
-- [EF SET English Certificate 61/100 (C1 Advanced) (2026)](https://drive.google.com/drive/folders/12uHUtYUkQ_lIKDB5p_hozsQ7f9rw2s3J?usp=drive_link)
+- [Google IT Support Professional Certificate (2025)](https://www.coursera.org/account/accomplishments/specialization/certificate/VFVCEZYW4B7T)
+- [Google IT Automation with Python Professional Certificate (2026)](https://coursera.org/verify/professional-cert/2G4BJQHVO6RR)
+- [EF SET English Certificate 61/100 (C1 Advanced) (2026)](https://cert.efset.org/7cESMU)
 
 ## Languages
 - Italian – Native/Bilingual  
